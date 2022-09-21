@@ -1,0 +1,31 @@
+/*
+*Name: Wil McTier
+*UnityID: wgmctier
+*Date: 9/21/2022
+*Assignment: webpage css
+*Description: Guided lab, webpage GL css
+*/
+
+p {
+  font-family:times ;
+  font-size: 16px;
+  color: #000000
+  }
+
+
+
+
+#photo-resize {
+
+  max-width: 250px ;
+  max-height: 300px ;
+
+    }
+
+
+
+
+
+.table-border {
+  border: 1px solid #ff0101 ;
+       }
